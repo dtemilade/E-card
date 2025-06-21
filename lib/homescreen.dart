@@ -26,7 +26,7 @@ class HomeScreen extends StatelessWidget {
                       color: Colors.white),
                 ),
                 const Text(
-                  'Software Developer',
+                  'Flutter Developer',
                   style: TextStyle(
                       fontSize: 16,
                       letterSpacing: 2,
